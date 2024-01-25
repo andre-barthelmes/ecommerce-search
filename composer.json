@@ -1,0 +1,17 @@
+{
+    "name": "andrebarthelmes/ecommerce-search",
+    "description": "A search for an e-commerce framework",
+    "autoload": {
+        "psr-4": {
+            "Andrebarthelmes\\EcommerceSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Barthelmes",
+            "email": "andre.barthelmes@smartcommerce.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
